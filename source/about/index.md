@@ -2,7 +2,7 @@ layout: about
 
 comments: false
 
-title: 
+title: about
 
 ---
 
