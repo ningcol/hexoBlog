@@ -1,4 +1,4 @@
-layout: about
+layout: page
 
 comments: false
 
