@@ -107,17 +107,17 @@ _就会发觉_
 
 ```
 超链接
-[百度](http://www.baidu.com)
+[百度](https://www.baidu.com)
 ```
 
-[百度](http://www.baidu.com)
+[百度](https://www.baidu.com)
 
 ```
 图片
 ![这是test图片](/img/test.png)
 ```
 
- ![这是test图片](http://odqosxg6n.bkt.clouddn.com/test.png)
+ ![这是test图片](https://s1.ax1x.com/2018/02/11/9GygN6.jpg)
 
 
 
