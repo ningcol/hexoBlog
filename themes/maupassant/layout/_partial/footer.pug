@@ -2,12 +2,11 @@
   a(href=url_for('.'), rel='nofollow')= config.title + '.'
   |  Powered by
   a(rel='nofollow', target='_blank', href='https://hexo.io')  Hexo.
-  | 
+  | <br>
   if theme.busuanzi == true
         script(src='https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js', async)
-        div.
-          | span#busuanzi_container_page_pv= ' 本站访客数:' 
-         	 span#busuanzi_value_page_pv
+        span#busuanzi_container_page_pv= ' 本站访客数:' 
+          span#busuanzi_value_page_pv
 
 
 
