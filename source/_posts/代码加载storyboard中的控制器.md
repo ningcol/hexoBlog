@@ -17,7 +17,7 @@ tags:
 
 2.然后拖动一个ViewController至我们创建的storyboard中，设置custom class里的Class为我们代码创建的ViewController，并设置storyboard ID为base，如图
 
- ![](http://odqosxg6n.bkt.clouddn.com/storyboard.png)
+![](https://s1.ax1x.com/2018/02/11/9G6A8U.jpg)
 
 3.加载storyboard里面的viewcontroller并push
 

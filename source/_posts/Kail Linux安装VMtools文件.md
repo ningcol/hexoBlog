@@ -23,7 +23,7 @@ Searching for a valid kernel header path...
 
 这时你就会觉得是不是没有更新，其实你apt-get install linux-headers-3.7-trunk-686-pae也是没用的。
 
- 去查看[kail官方文档](http://cn.docs.kali.org/general-use-cn/kali%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85vmware-tools)，发现apt-get install open-vm-tools也没用，即使是用它下面提供的方法安装一些VMware Tools安装器需要的包也没用。
+去查看[kail官方文档](https://docs.kali.org/)，发现apt-get install open-vm-tools也没用，即使是用它下面提供的方法安装一些VMware Tools安装器需要的包也没用。
 
 #### 现在我们进入正题：####
 

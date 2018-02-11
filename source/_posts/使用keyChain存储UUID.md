@@ -13,15 +13,15 @@ tags:
 
 一、在你的工程里找到Capabilities，把里面的keyChainsharing设置为ON，如图所示：
 
-![](http://odqosxg6n.bkt.clouddn.com/keyChain-1.png)
+![](https://s1.ax1x.com/2018/02/11/9G6fI0.jpg)
 
 二、这样就会在左侧的目录帮我们自动生成Entitlements文件，如图所示：
 
- ![](http://odqosxg6n.bkt.clouddn.com/keyChain-2.png)
+![](https://s1.ax1x.com/2018/02/11/9G6IRU.jpg)
 
 三、我们点开entitlements文件，发现里面的item和我们的Bundle Identifier，以及刚刚keychain Groups是一致的：
 
-![](http://odqosxg6n.bkt.clouddn.com/keyChain-3.png)
+![](https://s1.ax1x.com/2018/02/11/9G6xJK.jpg)
 
 四、用keyChain存储UUID，可以使用下面的类:
 

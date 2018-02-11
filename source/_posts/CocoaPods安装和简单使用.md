@@ -47,7 +47,7 @@ http://ruby.taobao.org/
 
 上面所有的命令完成之时，终端应该是这个的样子：
 
- ![](http://odqosxg6n.bkt.clouddn.com/CocoaPods-1.png)
+ ![](https://s1.ax1x.com/2018/02/11/9G6KV1.jpg)
 
 这时候，你再次在终端中运行：
 
@@ -79,13 +79,13 @@ $ pod search AFNetworking
 
 过几秒钟之后，你会在终端中看到关于AFNetworking类库的一些信息。比如：
 
- ![](http://odqosxg6n.bkt.clouddn.com/CocoaPods-2.png)
+![](https://s1.ax1x.com/2018/02/11/9G6Q56.jpg)
 
 ​    这说明，AFNetworking是支持CocoaPods，所以我们可以利用CocoaPods将AFNetworking导入你的项目中。
 
 ​      首先，我们需要在我们的项目中加入CocoaPods的支持。先利用Xcode创建一个名字CocoaPodsDemo的项 目，用于以下的教程。创建好之后，在继续下一步之前，先看看以下截图，看看项目没有支持CocoaPods时的项目Xcode目录结构：
 
- ![](http://odqosxg6n.bkt.clouddn.com/CocoaPods-3.png)
+![](https://s1.ax1x.com/2018/02/11/9G61PK.jpg)
 
 上图等一下要跟项目支持CocoaPods之后的项目Xcode目录结构做对比。
 
@@ -118,6 +118,6 @@ $ pod install
 
 运行上述命令之后，终端出现以下信息：
 
- ![](http://odqosxg6n.bkt.clouddn.com/CocoaPods-4.png)
+![](https://s1.ax1x.com/2018/02/11/9G682D.jpg)
 
 注意最后一句话，意思是：以后打开项目就用 CocoaPodsDemo.xcworkspace打开，而不是之前的.xcodeproj文件。

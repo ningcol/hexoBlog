@@ -17,11 +17,11 @@ tags:
 
 一、直接在OC工程里创建swift文件，XCode会自动提示是否创建这个桥接文件，这里点击确定（这个桥接文件是必须的）
 
- ![](http://odqosxg6n.bkt.clouddn.com/Swift-OC%E6%B7%B7%E7%BC%96-1.png)
+![](https://s1.ax1x.com/2018/02/11/9GcPLd.png)
 
 二、可以看到刚刚创建的swift文件以及桥接文件，我们在Test.swfit写个方法，如图
 
-![](http://odqosxg6n.bkt.clouddn.com/Swift-OC%E6%B7%B7%E7%BC%96-2.png)
+![](https://s1.ax1x.com/2018/02/11/9GcFeA.png)
 
 三、最后我们在需要使用swift的OC文件里引入头文件`#import "OCandSwift-Swift.h"`，**OCandSwift**是项目的名称，**-Swift.h**是固定的。最后我们在viewDidLoad中调用Test.swift中的方法
 
@@ -30,8 +30,8 @@ tags:
   NSLog(@"%@",[test run]);
 ```
 
-![](http://odqosxg6n.bkt.clouddn.com/Swift-OC%E6%B7%B7%E7%BC%96-3.png)
+![](https://s1.ax1x.com/2018/02/11/9GckdI.png)
 
 四、如果我们要在swift中调用OC，就在刚刚的桥接文件里引入OC的头文件再调用其中的方法就好了
 
-![](http://odqosxg6n.bkt.clouddn.com/Swift-OC%E6%B7%B7%E7%BC%96-4.png)
+![](https://s1.ax1x.com/2018/02/11/9GcVFP.png)

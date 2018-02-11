@@ -68,7 +68,7 @@ NSArray *documents = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NS
    [self exportCSV:self.filePath];
 ```
 
-1.现在开始进入正题，要先下载微软的excel库文件[http://www.libxl.com/download.html](http://www.libxl.com/download.html)，解压
+1.现在开始进入正题，要先下载微软的excel库文件[https://www.libxl.com/download.html](https://www.libxl.com/download.html)，解压
 
 2.里面有example，可以参考一下、把LibXL.framework导入自己的项目当中，设置bitcode为no，以及linker也要改为**-lstdc++**
 
@@ -171,4 +171,4 @@ NSArray *documents = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NS
 
 5.这样就可以选择QQ打开生成的xls文件。效果如下，因为这个是要收费的，所以忽略第一行：
 
- ![](http://odqosxg6n.bkt.clouddn.com/%E5%AF%BC%E5%87%BAtableView.png)
+![](https://s1.ax1x.com/2018/02/11/9Gyjgg.jpg)

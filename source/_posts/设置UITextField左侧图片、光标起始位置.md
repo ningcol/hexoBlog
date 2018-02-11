@@ -13,7 +13,7 @@ tags:
 
 一、我们通常在设计登录界面的时候会用到UITextField，如下图所示
 
- ![](http://odqosxg6n.bkt.clouddn.com/UITextField%E8%AE%BE%E7%BD%AE%E5%9B%BE%E7%89%87%E3%80%81%E5%85%89%E6%A0%87%E4%BD%8D%E7%BD%AE-1.png)
+![](https://s1.ax1x.com/2018/02/11/9G6sxg.jpg)
 
 1.左边显示图片
 

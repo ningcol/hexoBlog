@@ -10,8 +10,8 @@ tags:
 
 ------
 
-1.下图(JGHomeController)为第一个控制器，他的tabbarController的index为0，将要传值给JGJobListController为第二个控制器，传递的值为abc数组。 ![](http://odqosxg6n.bkt.clouddn.com/tabbar-1.png)
+1.下图(JGHomeController)为第一个控制器，他的tabbarController的index为0，将要传值给JGJobListController为第二个控制器，传递的值为abc数组。 ![](https://s1.ax1x.com/2018/02/11/9G6SDs.png)
 
 2.JGJobListController控制器的头文件，需要声明abc属性。接下来就可以在m文件里使用abc了。
 
-![](http://odqosxg6n.bkt.clouddn.com/tabbar-2.png)
+![](https://s1.ax1x.com/2018/02/11/9G6pbn.png)
