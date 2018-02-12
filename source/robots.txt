@@ -13,3 +13,4 @@ Disallow: /fancybox/
 
 Sitemap: http://ningcol.github.io/baidusitemap.xml
 Sitemap: http://ningcol.com/baidusitemap.xml
+Sitemap: http://ningcol.com/sitemap.xml

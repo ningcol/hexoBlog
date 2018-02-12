@@ -94,12 +94,16 @@ feed:
   limit: 20  ##feed文章最小數量
 
 
-#sitemap
-#sitemap:
-#  path: sitemap.xml #要与baidusitemap.xml共存时需注释
-
+sitemap
+sitemap:
+  path: sitemap.xml 
 baidusitemap:
-  path:baidusitemap.xml                 #默认 baidusitemap.xml，不需设置：
+  path: baidusitemap.xml 
+
+permalink: post/:abbrlink.html
+abbrlink:
+  alg: crc32  # 算法：crc16(default) and crc32
+  rep: hex    # 进制：dec(default) and hex  
 
 
 
