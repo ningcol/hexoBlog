@@ -12,3 +12,4 @@ Disallow: /vendors/
 Disallow: /fancybox/
 
 Sitemap: http://ningcol.github.io/baidusitemap.xml
+Sitemap: http://ningcol.com/baidusitemap.xml
