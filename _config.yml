@@ -94,7 +94,6 @@ feed:
   limit: 20  ##feed文章最小數量
 
 
-sitemap
 sitemap:
   path: sitemap.xml 
 baidusitemap:
